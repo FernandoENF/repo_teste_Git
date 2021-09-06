@@ -1,1 +1,1 @@
-LINHA DE CONFIGURACAO COM ERRO
+Disciplina DevOps
